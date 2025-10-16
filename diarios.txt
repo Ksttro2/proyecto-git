@@ -3,3 +3,4 @@
 3. y se hace el primer commit
 
 5. se realiza el primer commit en la siguiente rama
+6. Segundo commit de la segunda rama
